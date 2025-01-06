@@ -1,2 +1,4 @@
 # wish
-this is my repository  code
+this is my first repository  code
+<br>
+Author wishkhan
